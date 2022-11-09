@@ -1,0 +1,39 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+        <span>Review</span>
+    </mat-toolbar-row>
+</mat-toolbar>
+<br/>
+<mat-card>
+    <mat-card-header>
+        <mat-card-title>Login</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <form novalidate method="post" (ngSubmit)="onSubmit()" [formGroup]="loginForm">
+            <div>
+                <div>
+                    <mat-form-field class="full-width">
+                        <input matInput placeholder="Email id" formControlName="username" required type="email">
+                        <mat-error *ngIf="loginForm.controls['username'].hasError('required')">
+                            Username is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <mat-form-field class="full-width">
+                        <input matInput placeholder="Password" formControlName="password" type="password"
+                               name="password" required>
+                        <mat-error *ngIf="loginForm.controls['password'].hasError('required')">
+                            Password is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+            </div>
+            <div>
+                <button mat-raised-button color="primary" type="submit">Login</button>
+            </div>
+        </form>
+    </mat-card-content>
+</mat-card>
