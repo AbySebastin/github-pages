@@ -18,7 +18,7 @@
 
 2. How do you install node and npm?
 
-![Easy](https://github.com/AbySebastin/github-pages/simple%20(2).svg)
+![Easy](https://raw.githubusercontent.com/AbySebastin/github-pages/6015e0993e019e82421fbbbc100a6fbc5b69f2ce/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
@@ -36,7 +36,7 @@
 
 3. What is the use of Node.js?
 
-![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
+![Easy](https://raw.githubusercontent.com/AbySebastin/github-pages/6015e0993e019e82421fbbbc100a6fbc5b69f2ce/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
