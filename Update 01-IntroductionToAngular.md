@@ -18,7 +18,7 @@
 
 2. What is meant by SPA? _or_ Give some examples of single-page applications.
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/revaturelabs/interviewquestions/simple%20(2).svg)
 
 <details>
 <summary> <b>Show Answer</b></summary>
@@ -36,7 +36,7 @@
 
 3. Angular workflow _or_ How does Angular work or bootstrapping your angular app? _or_ How do you load an Angular application in the webserver? 
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/revaturelabs/interviewquestions/simple%20(2).svg)
 
 <details>
 <summary> <b>Show Answer</b></summary>
@@ -80,7 +80,7 @@
   
 4. How SPA is different from traditional webapplicationsn?
 	
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/revaturelabs/interviewquestions/simple%20(2).svg)
 	
 <details>
 <summary><b>Show Answer</b></summary>
