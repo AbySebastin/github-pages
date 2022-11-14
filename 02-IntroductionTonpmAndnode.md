@@ -18,7 +18,7 @@
 
 2. How do you install node and npm?
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
