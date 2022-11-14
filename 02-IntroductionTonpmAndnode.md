@@ -1,6 +1,6 @@
 1. Why do we need Node.js for Angular?
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
@@ -36,7 +36,7 @@
 
 3. What is the use of Node.js?
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
@@ -54,7 +54,7 @@
 
 4. What is NPM?
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
@@ -74,7 +74,7 @@
 
 5. What is the difference between Angular and Node.js?
 
-![Medium](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/Medium%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
@@ -94,7 +94,7 @@
 
 6. How do you check whether Node.js is installed successfully in your system?
 
-![Easy](https://github.com/revaturelabs/interviewquestions/blob/dev/ComplexityTags/simple%20(2).svg)
+![Easy](https://github.com/AbySebastin/github-pages/blob/b8d750b0e943ea01c4ce6e199128e1943d2b6947/simple%20(2).svg)
 
 <details>
 <summary><b>Show Answer</b></summary>
